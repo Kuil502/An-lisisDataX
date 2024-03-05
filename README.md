@@ -37,6 +37,6 @@ Esto garantizará que tengas todas las librerías necesarias para ejecutar la ap
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ## Contacto
-Para cualquier pregunta o comentario, no dudes en contactarnos en (mailto:Wilfredoalpirez@gmail.com) o a través de nuestros perfiles en redes sociales:
+Para cualquier pregunta o comentario, no dudes en contactarnos en (Wilfredoalpirez@gmail.com) o a través de nuestros perfiles en redes sociales:
 - [LinkedIn](https://www.linkedin.com/in/wilfredo-alpirez-835210197/)
 - [GitHub](https://github.com/Kuil502)
